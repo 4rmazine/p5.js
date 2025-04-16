@@ -1,4 +1,4 @@
-<h1>A version of P5.js that works on Khan Academy (that currently isn't up-to-date [it's v1.11.2]).</h1>
+<h1>A version of P5.js that works on Khan Academy (that currently isn't up-to-date/still is at v1.11.2).</h1>
 <!-- Oh dear, I'm not so good at this markdown thing. -->
 <p>I was looking at a project (https://www.khanacademy.org/computer-programming/p5js-on-ka/5684432689086464) made by Bluebird (username @birdwatcher03 on KA and @birdofblue on Github) where he said: </p>
 
