@@ -1,4 +1,4 @@
-<h1>Up-to-date (for now) version of P5.js that works on Khan Academy</h1>
+<h1>A version of P5.js that works on Khan Academy (not currently up-to-date [it's v1.11.2])</h1>
 <!-- Oh dear, I'm not so good at this markdown thing. -->
 <p>I was looking at a project (https://www.khanacademy.org/computer-programming/p5js-on-ka/5684432689086464) made by Bluebird (username @birdwatcher03 on KA and @birdofblue on Github) where he said: </p>
 
@@ -41,7 +41,7 @@ Here's a simple example if it helps:
         <meta charset="utf-8">
         <title>Thanks to Bluebird</title>
         
-        <script src="https://cdn.jsdelivr.net/gh/4rmaged/p5.js@main/lib/p5.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/4rmazine/p5.js@main/lib/p5.js"></script>
         <style>
             *{
                 margin:0;
